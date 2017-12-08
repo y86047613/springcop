@@ -1,0 +1,1 @@
+package com.jeefw.service.sys;import com.jeefw.model.sys.Role;import core.service.Service;public abstract interface RoleService  extends Service<Role>{  public abstract void deleteSysUserAndRoleByRoleId(Long paramLong);}
