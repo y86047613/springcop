@@ -1,0 +1,1 @@
+package core.cache;public abstract interface SystemContents{  public static final String DICTIONARY_PATH = "dictionary.xml";  public static final String DICTIONARY = "dictionary";}

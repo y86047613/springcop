@@ -1,0 +1,1 @@
+package core.util;public class Constants{  public static final int re_1 = 1;  public static final int re_2 = 2;  public static final int re_3 = 3;}
