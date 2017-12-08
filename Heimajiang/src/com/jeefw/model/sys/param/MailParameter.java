@@ -1,0 +1,1 @@
+package com.jeefw.model.sys.param;import core.support.ExtJSBaseParameter;public class MailParameter  extends ExtJSBaseParameter{  private String $like_subject;    public String get$like_subject()  {    return this.$like_subject;  }    public void set$like_subject(String $like_subject)  {    this.$like_subject = $like_subject;  }}

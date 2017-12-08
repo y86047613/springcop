@@ -1,0 +1,1 @@
+package com.jeefw.model.sys.param;import core.support.ExtJSBaseParameter;public class GameStatusParameter  extends ExtJSBaseParameter{  private static final long serialVersionUID = -1946385245181503185L;}

@@ -1,0 +1,1 @@
+package com.jeefw.model.sys.param;import core.support.ExtJSBaseParameter;public class UserInsureScoreParameter  extends ExtJSBaseParameter{  private static final long serialVersionUID = -7402881433924491151L;}
